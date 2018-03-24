@@ -1,0 +1,14 @@
+{
+    "name": "emmanuelgeneblaza/march242018",
+    "description": "SMS Notification Project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Emmanuel Geneblaza",
+            "email": "emmanuelvgeneblaza@tua.edu.ph"
+        }
+    ],
+    "require": {
+        "nexmo/client": "^1.3"
+    }
+}
